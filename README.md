@@ -1,0 +1,9 @@
+# automatic-goggles
+Ha
+echo "# automatic-goggles" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/hhanan233/automatic-goggles.git
+  git push -u origin main
